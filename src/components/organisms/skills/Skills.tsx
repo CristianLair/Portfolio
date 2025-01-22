@@ -24,7 +24,6 @@ const Skills: React.FC = ({}) => {
         </ColumnLeft>
         <ColumnRight style={{ justifyContent: "space-between" }}>
           <ProgressBar title="REACT" status="90%" />
-          <ProgressBar title="REACT NATIVE" status="90%" />
           <ProgressBar title="NODE JS" status="70%" />
           <ProgressBar title="EXPRESS JS" status="60%" />
         </ColumnRight>

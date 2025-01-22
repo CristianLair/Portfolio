@@ -14,7 +14,7 @@ const Home: React.FC = () => {
       <DownloadCV />
       <ContainerHome id="home">
         <div className="contText" data-aos="zoom-in" data-aos-delay="100">
-          <HeroTitle>Guillermo Ambroggio</HeroTitle>
+          <HeroTitle>Cristian Lair</HeroTitle>
           <div className="heroSubtitle">
             <SubTitleHero>{texts.hero.my}</SubTitleHero>
 

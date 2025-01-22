@@ -24,12 +24,12 @@ const Footer: React.FC = () => {
           <Corazon>❤ </Corazon>
           <Text>{texts.footer.by}</Text>
         </FirstTexts>
-        <TextName> Guillermo Ambroggio </TextName>
+        <TextName> Cristian Lair </TextName>
       </ContainerTexts>
       <SubText>{texts.footer.text}</SubText>
       <ContainerIcons>
         <a
-          href={"https://github.com/GuillermoAmbroggio"}
+          href={"https://github.com/CristianLair"}
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -38,7 +38,7 @@ const Footer: React.FC = () => {
           </ContainerIcon>
         </a>
         <a
-          href={"https://www.linkedin.com/in/guillermoambroggio/"}
+          href={"https://www.linkedin.com/in/cristian-lair-developer/"}
           target="_blank"
           rel="noopener noreferrer"
         >

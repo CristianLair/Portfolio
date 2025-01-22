@@ -6,7 +6,7 @@ export const writingEn = {
     contact: 'Contact',
   },
   hero: {
-    name: 'Guillermo Ambroggio',
+    name: 'Cristian Lair',
     my: "I'm",
     title1: 'Engineer',
     title2: 'Developer',
@@ -15,20 +15,20 @@ export const writingEn = {
   about: {
     title: 'ABOUT',
     intro:
-      'Graduated from Civil Engineering and Full Stack developer, I develop React and React Native applications, I also develop APIs with Express.js & Node.js using TypeScript or JavaScript, I am also passionate about investments in cryptocurrencies and the stock market.',
-    subtitle: 'Full Stack Developer & Civil Engineer',
+      'Graduated from the National Technological University as a Full Stack developer, I develop React applications as well as APIs with Express.js & Node.js using TypeScript or JavaScript. I am passionate about logic and constantly learning new technologies.',
+    subtitle: 'Full Stack Developer',
     birthdayTitle: 'Birthday: ',
-    birthday: '21 June 1994',
+    birthday: '19 october 1993',
     ageTitle: 'Age: ',
-    age: '26',
+    age: '28',
     educationTitle: 'Education: ',
     education: 'University',
     cityTitle: 'City: ',
-    city: 'Cordoba, Argentina',
+    city: 'Chaco, Argentina',
     emailTitle: 'Email: ',
-    email: 'guillermoambroggio@gmail.com',
+    email: 'cristianlair@gmail.com',
     personalInfo:
-      'Always positive life philosophy, I believe that working the mind produces great benefits and that whatever you want you can achieve if you make an effort and focus on it. I like to meditate and do a lot of physical exercise.',
+      'Philosophy of life always positive, enthusiastic and determined, I trust that hard work brings the best results',
   },
   skills: {
     title: 'SKILLS',
@@ -39,31 +39,31 @@ export const writingEn = {
       title: 'Education: ',
       1: {
         title: 'Full Stack Developer',
-        period: '2020-2020',
+        period: '2022-2022',
         institution: 'Henry',
-        description: 'JavaScript Immersive Bootcamp +600 hours in 4 months',
+        description: 'JavaScript Immersive Bootcamp +700 hours in 4 months',
       },
       2: {
-        title: 'Civil Engineer',
-        period: '2013-2019',
-        institution: 'Universidad Nacional del Nordeste, Argentina',
+        title: 'Full Stack Developer',
+        period: '2021-2021',
+        institution: 'National University of the Northeast, Argentina',
       },
     },
     professionalExperiencie: {
       title: 'Professional Experiencie: ',
       1: {
-        title: 'Vitau (YC Company)',
-        period: 'SEP 2020 - PRESENT',
-        institution: 'Digital pharmacy - Monterrey, Mexico.',
+        title: 'Freelance',
+        period: 'July 2021 - July 2022',
+        institution: 'Freelance - Chaco, Argentina.',
         description:
           ' Developed front-end applications for e-commerce (Android & Ios)',
       },
       2: {
-        title: 'Direccion Nacional de Vialidad',
-        period: 'JUN 2019 - NOV 2020',
-        institution: 'State company - Argentina.',
+        title: 'Apex américa',
+        period: 'DEC 2019 - Mar 2020',
+        institution: 'State private - Argentina.',
         description1:
-          'Construction engineer in charge of projects supervision.',
+          'Technical service for fibercorp.',
       },
     },
   },
@@ -77,54 +77,53 @@ export const writingEn = {
     Myprojects: [
       {
         id: 1,
-        title: 'Ten Shop - Ecommerce',
+        title: 'Pokemon App',
         category: 'Web',
         client: 'Henry',
-        date: 'July, 2020',
+        date: 'May, 2022',
         url: {
-          title: 'Ten Shop',
-          url: 'https://github.com/GuillermoAmbroggio/TenShop',
+          title: 'Pokemon App',
+          url: 'https://github.com/CristianLair/PokeAPI-henry',
         },
         description: {
           title: 'Description',
           content:
-            'This is the first project that I developed as a programmer, it was part of the final work of the course Full Stack Developer in Henry.',
+            'This is the first project I developed as a programmer, made with React and JavaScript, it was part of the Full Stack Developer course at Henry.',
         },
       },
       {
         id: 2,
-        title: 'Vitau - Ecommerce',
+        title: 'Countries App',
         category: 'App',
-        client: 'Vitau.mx',
-        date: 'March, 2021',
+        client: 'Henry',
+        date: 'Jun, 2022',
         url: {
-          title: 'Vitau App - PlayStore',
-          url: 'https://play.google.com/store/apps/details?id=mx.vitau.androidvitau',
-          title2: 'Vitau App - AppStore',
-          url2: 'https://apps.apple.com/mx/app/vitau-farmacia-digital/id1560696284',
+          title: 'Countries App',
+          url: 'https://github.com/CristianLair/Proyecto-CountriesHenry',
+          
         },
         description: {
           title: 'Description',
           content:
-            "Application developed with React Native, Typescript, I can't share the company's private repository, but if you want to try it you can download it from PlayStore for android, or AppStore for Ios.",
+            "Application developed with React, JavaScript, project carried out as a freelance during the Full Stack developer course, Henry",
         },
       },
       {
         id: 3,
-        title: 'Gipsy',
+        title: 'Marketplace - Wallaby',
         category: 'Web',
-        client: 'Own',
-        date: 'August, 2020',
+        client: 'Henry',
+        date: 'July, 2022',
         url: {
-          title: 'Top Gif - Web',
-          title2: 'Top Gif - GitHub',
-          url2: 'https://github.com/GuillermoAmbroggio/TopGifs',
-          url: 'https://topgifs.vercel.app/',
+          title: 'Wallaby - Web',
+          title2: 'Wallaby - GitHub',
+          url2: 'https://github.com/CristianLair/Henry-Backend-PF',
+          url: 'https://wallabyapp.vercel.app/',
         },
         description: {
           title: 'Description',
           content:
-            'This project consumes the best gifs from the Gipsy api and displays them, in which you can edit the amount of gif and search for gif by themes.',
+            'This project consumes the best gifs from the Moralis api, which provides real NFTS and displays them, in which you can create, buy and sell NFTS. It also has the minting of contracts and the login with Metamask to later connect to the blockchain.',
         },
       },
     ],
@@ -133,15 +132,15 @@ export const writingEn = {
     title: 'CONTACT',
     location: {
       title: 'Location',
-      info: 'Cordoba, Argentina, CP 5000.',
+      info: 'Chaco, Argentina, CP 3500.',
     },
     email: {
       title: 'Email',
-      info: 'guillermoambroggio@gmail.com',
+      info: 'cristianlair@gmail.com',
     },
     linkedin: {
       title: 'Linkedin',
-      info: '/in/guillermoambroggio/',
+      info: '/in/cristian-lair-developer/',
     },
     form: {
       name: 'Your Name',

@@ -10,7 +10,7 @@ import {
   TextCenter,
 } from "./about.style";
 import Writing from "../../../copywriting/Writing";
-import profileImg from "../../../assets/about/profile.png";
+import profileImg from "../../../assets/about/profile.jpg";
 import AboutInfo from "../../molecules/aboutInfo/AboutInfo";
 import Skills from "../../organisms/skills/Skills";
 import Resume from "../../organisms/resume/Resume";

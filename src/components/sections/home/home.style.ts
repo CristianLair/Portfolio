@@ -2,7 +2,7 @@ import styled from "styled-components";
 import image from "../../../assets/home/herobg.png";
 
 export const ContainerHome = styled.div`
-  width: 100%;
+  max-width: 100%;
   height: 100vh;
   background: url(${image}) top right no-repeat;
   background-size: cover;

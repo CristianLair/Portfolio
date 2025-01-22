@@ -6,29 +6,29 @@ export const writingES = {
     contact: "Contacto",
   },
   hero: {
-    name: "Guillermo Ambroggio",
+    name: "Cristian Lair",
     my: "Soy",
     title1: "Ingeniero",
-    title2: "Desarrollador",
+    title2: "Desarrollador Full Stack",
   },
   download: "Descargar",
   about: {
     title: "SOBRE MI",
     intro:
-      "Graduado de Ingeniería Civil y desarrollador Full Stack, desarrollo aplicaciones React y React Native, tambien desarrollo APIs con Express.js & Node.js usando TypeScript o JavaScript. Soy un apasionado de inversiones en criptomonedas y en el mercado bursatil.",
-    subtitle: "Full Stack Developer & Ingeniero Civil",
+      "Graduado de la Universidad Tecnológica Nacional como desarrollador Full Stack, desarrollo aplicaciones React tambien desarrollo APIs con Express.js & Node.js usando TypeScript o JavaScript. Soy un apasionado en la lógica y en el constante aprendizaje de nuevas tecnologías.",
+    subtitle: "Full Stack Developer ",
     birthdayTitle: "Cumpleaños: ",
-    birthday: "21 Junio 1994",
+    birthday: "19 Octubre 1993",
     ageTitle: "Edad: ",
-    age: "26",
+    age: "28",
     educationTitle: "Educación: ",
     education: "Universitario",
     cityTitle: "Ciudad: ",
-    city: "Cordoba, Argentina",
+    city: "Resistencia, Argentina",
     emailTitle: "Correo: ",
-    email: "guillermoambroggio@gmail.com",
+    email: "cristianlair@gmail.com",
     personalInfo:
-      "Filosofía de vida siempre positivo, creo en que trabajar la mente produce grandes beneficios y que todo lo que quieras lo puedes conseguir si te esfuerzas y enfocas en ello. Me gusta meditar y hacer mucho ejercicio físico.",
+      "Filosofía de vida siempre positivo, entusiasta y decidido, confío en que el trabajo duro brinda los mejores resultados"
   },
   skills: {
     title: "HABILIDADES",
@@ -39,33 +39,32 @@ export const writingES = {
       title: "Educación: ",
       1: {
         title: "Full Stack Developer",
-        period: "2020-2020",
+        period: "2022-2022",
         institution: "Henry",
-        description: "Bootcamp intensivo de JavaScript, +600 horas en 4 meses.",
+        description: "Bootcamp intensivo de JavaScript, +700 horas en 4 meses.",
       },
       2: {
-        title: "Ingeniero Civil",
-        period: "2013-2019",
-        institution: "Universidad Nacional del Nordeste, Argentina",
+        title: "Desarrollador web Full Stack",
+        period: "2021-2021",
+        institution: "Universidad tecnológica Nacional, Argentina",
       },
     },
     professionalExperiencie: {
-      title: "Experiencia Laboral: ",
+      title: "Freelance: ",
       1: {
-        title: "Vitau (YC Company)",
-        period: "SEP 2020 - PRESENTE",
-        institution: "Farmacia digital - Monterrey, Mexico.",
+        title: "Freelance",
+        period: "Jul 2021 - Jul 2022",
+        institution: "Freelance - Chaco, Argentina.",
         description:
-          "Desarrollo de aplicaciones front-end para comercio electrónico.",
+          "Freelance application development.",
       },
       2: {
-        title: "Direccion Nacional de Vialidad",
-        period: "JUN 2019 - NOV 2020",
-        institution: "Empresa estatal - Argentina.",
+        title: "Apex américa",
+        period: "Dic 2019 - Mar 2020",
+        institution: "Empresa privada - Argentina.",
         description1:
-          "Supervisar trabajos de bacheo, pavimentación y repavimentación.",
-        deescription2:
-          "Ensayos de laboratorio de hormigones y suelos naturales.",
+          "Servicio tecnico para fibercorp.",
+        
       },
     },
   },
@@ -79,56 +78,54 @@ export const writingES = {
     Myprojects: [
       {
         id: 1,
-        title: "Ten Shop - Comercio electronico",
+        title: "Pokemon App",
         category: "Web",
         client: "Henry",
-        date: "Julio, 2020",
+        date: "Mayo, 2022",
         url: {
-          title: "Ten Shop",
-          url: "https://github.com/GuillermoAmbroggio/TenShop",
+          title: "App pokemons",
+          url: "https://github.com/CristianLair/PokeAPI-henry",
         },
         description: {
           title: "Descripción",
           content:
-            "Este es el primer proyecto que desarrollé como programador, formó parte del trabajo final del curso Full Stack Developer en Henry.",
+            "Este es el primer proyecto que desarrollé como programador, realizado con React y JavaScript, formó parte del curso Full Stack Developer en Henry.",
         },
       },
       {
         id: 2,
-        title: "Vitau - Comercio electronico",
+        title: "Countries App ",
         category: "App",
-        client: "Vitau.mx",
-        date: "Marzo, 2021",
+        client: "Henry",
+        date: "Junio, 2022",
         url: {
-          title: "Vitau App - PlayStore",
+          title: "App Countries",
           url:
-            "https://play.google.com/store/apps/details?id=mx.vitau.androidvitau",
-          title2: "Vitau App - AppStore",
-          url2:
-            "https://apps.apple.com/mx/app/vitau-farmacia-digital/id1560696284",
+            "https://github.com/CristianLair/Proyecto-CountriesHenry",
+          
         },
         description: {
           title: "Descripción",
           content:
-            "Aplicacion desarrollada con React Native, Typescript, no puedo compartir el repositorio privado de la empresa, pero si la quieres probar puedes descargartela desde PlayStore para android, o AppStore para Ios.",
+            "Aplicacion desarrollada con React , JavaScript, proyecto realizado de manera freelance durante el curso de desarollador Full Stack, Henry.",
         },
       },
       {
         id: 3,
-        title: "Top Gif",
+        title: "Marketplace - NFTS",
         category: "Web",
-        client: "Propio",
-        date: "Agosto, 2020",
+        client: "Henry",
+        date: "Julio, 2020",
         url: {
-          title: "Top Gif - Web",
-          title2: "Top Gif - GitHub",
-          url2: "https://github.com/GuillermoAmbroggio/TopGifs",
-          url: "https://topgifs.vercel.app/",
+          title: "Wallaby - Web",
+          title2: "Wallaby - GitHub",
+          url2: "https://github.com/CristianLair/Henry-Backend-PF",
+          url: "https://wallabyapp.vercel.app/",
         },
         description: {
           title: "Descripción",
           content:
-            "Este proyecto consume los mejores gif de la api de Gipsy y los muestra, en el se puede editar la cantidad de gif y buscar gif por temas.",
+            "Este proyecto consume los mejores gif de la api de Moralis, las cuales brinda NFTS realesy los muestra, en la cual podes crear, comprar y vender NFTS. Tambien cuenta con la acuñación de contratos y el logín con Metamask para conectarte posteriormente a la blockchain",
         },
       },
     ],
@@ -137,15 +134,15 @@ export const writingES = {
     title: "CONTACTO",
     location: {
       title: "Locación",
-      info: "Cordoba, Argentina, CP 5000.",
+      info: "Chaco, Argentina, CP 3500.",
     },
     email: {
       title: "Email",
-      info: "guillermoambroggio@gmail.com",
+      info: "cristianlair@gmail.com",
     },
     linkedin: {
       title: "Linkedin",
-      info: "/in/guillermoambroggio/",
+      info: "/in/cristian-lair-developer/",
     },
     form: {
       name: "Tu Nombre",

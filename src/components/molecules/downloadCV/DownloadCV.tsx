@@ -1,5 +1,5 @@
 import React from "react";
-import CV from "./pdf/CVGuillermoAmbroggio.pdf";
+import CV from "./pdf/CV Cristian.pdf";
 import Icon from "../../atoms/icon/Icon";
 import { Link, ContainerDownload, TextCV } from "./downloadcv.style";
 import Writing from "../../../copywriting/Writing";
@@ -7,7 +7,7 @@ import Writing from "../../../copywriting/Writing";
 const DownloadCV: React.FC = () => {
   const texts = Writing();
   return (
-    <Link href={CV} download="CVGuillermoAmbroggio.pdf">
+    <Link href={CV} download="CV Cristian.pdf">
       <ContainerDownload>
         <Icon name="fas fa-file-download" size={30} />
         <TextCV>CV</TextCV>
