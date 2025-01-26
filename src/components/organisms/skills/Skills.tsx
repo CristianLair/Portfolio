@@ -17,15 +17,16 @@ const Skills: React.FC = ({}) => {
             justifyContent: "space-between",
           }}
         >
-          <ProgressBar title="HTML" status="85%" />
-          <ProgressBar title="CSS" status="85%" />
-          <ProgressBar title="JAVASCRIPT" status="80%" />
-          <ProgressBar title="TYPESCRIPT" status="70%" />
+          <ProgressBar title="GOOGLE CLOUD PLATAFORM" status="EXPERT" />
+          <ProgressBar title="FASTIFAY" status="EXPERT" />
+          <ProgressBar title="JAVASCRIPT" status="EXPERT" />
+          <ProgressBar title="NODE JS" status="EXPERT" />
         </ColumnLeft>
         <ColumnRight style={{ justifyContent: "space-between" }}>
-          <ProgressBar title="REACT" status="90%" />
-          <ProgressBar title="NODE JS" status="70%" />
-          <ProgressBar title="EXPRESS JS" status="60%" />
+          <ProgressBar title="GO" status="ALTO" />
+          <ProgressBar title="TYPESCRIPT" status="ALTO" />
+          <ProgressBar title="EXPRESS JS" status="ALTO" />
+          <ProgressBar title="DOCKER" status="ALTO" />
         </ColumnRight>
       </RowSkills>
     </ContainerSkills>

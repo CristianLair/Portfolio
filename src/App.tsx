@@ -6,7 +6,7 @@ import Home from "./components/sections/home/Home";
 import AOS from "aos";
 import "aos/dist/aos.css"; // You can also use <link> for styles
 import About from "./components/sections/about/About";
-import Projects from "./components/sections/projects/Projects";
+//import Projects from "./components/sections/projects/Projects";
 import Contact from "./components/sections/contact/Contact";
 import Footer from "./components/organisms/footer/Footer";
 
@@ -27,7 +27,6 @@ const App: React.FC = () => {
       <NavBar />
       <Home />
       <About />
-      <Projects />
       <Contact />
       <Footer />
     </div>

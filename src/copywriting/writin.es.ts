@@ -8,19 +8,19 @@ export const writingES = {
   hero: {
     name: "Cristian Lair",
     my: "Soy",
-    title1: "Ingeniero",
-    title2: "Desarrollador Full Stack",
+    title1: "Desarrollador Backend",
+    title2: "Mentor",
   },
   download: "Descargar",
   about: {
     title: "SOBRE MI",
     intro:
-      "Graduado de la Universidad Tecnológica Nacional como desarrollador Full Stack, desarrollo aplicaciones React tambien desarrollo APIs con Express.js & Node.js usando TypeScript o JavaScript. Soy un apasionado en la lógica y en el constante aprendizaje de nuevas tecnologías.",
-    subtitle: "Full Stack Developer ",
+      "Desarrollador Backend, utilizando Nodejs,GCP,Docker, bases de datos relacionales y no relacionales y lenguajes como TypeScript, JavaScript y Golang.",
+    subtitle: "Backend Developer ",
     birthdayTitle: "Cumpleaños: ",
     birthday: "19 Octubre 1993",
     ageTitle: "Edad: ",
-    age: "28",
+    age: "31",
     educationTitle: "Educación: ",
     education: "Universitario",
     cityTitle: "Ciudad: ",
@@ -28,7 +28,7 @@ export const writingES = {
     emailTitle: "Correo: ",
     email: "cristianlair@gmail.com",
     personalInfo:
-      "Filosofía de vida siempre positivo, entusiasta y decidido, confío en que el trabajo duro brinda los mejores resultados"
+      "Siempre positivo, entusiasta y decidido, confío en que el trabajo duro brinda los mejores resultados"
   },
   skills: {
     title: "HABILIDADES",
@@ -50,20 +50,20 @@ export const writingES = {
       },
     },
     professionalExperiencie: {
-      title: "Freelance: ",
+      title: "Experiencia IT: ",
       1: {
-        title: "Freelance",
-        period: "Jul 2021 - Jul 2022",
-        institution: "Freelance - Chaco, Argentina.",
+        title: "Backend Developer",
+        period: "Agosto 2022 - Actualidad",
+        institution: "Ligo - Lima, Peru.",
         description:
-          "Freelance application development.",
+          "Backend B2C y B2B developer.",
       },
       2: {
-        title: "Apex américa",
-        period: "Dic 2019 - Mar 2020",
-        institution: "Empresa privada - Argentina.",
+        title: "Mentor",
+        period: "Enero 2023 - Actualidad",
+        institution: "Henry - Buenos Aires,Argentina.",
         description1:
-          "Servicio tecnico para fibercorp.",
+          "Corrector y acompañante de estudiantes.",
         
       },
     },
@@ -94,7 +94,7 @@ export const writingES = {
       },
       {
         id: 2,
-        title: "Countries App ",
+        title: "Countries App",
         category: "App",
         client: "Henry",
         date: "Junio, 2022",
@@ -107,7 +107,7 @@ export const writingES = {
         description: {
           title: "Descripción",
           content:
-            "Aplicacion desarrollada con React , JavaScript, proyecto realizado de manera freelance durante el curso de desarollador Full Stack, Henry.",
+            "Aplicacion desarrollada con React , JavaScript, proyecto realizado de manera freelance",
         },
       },
       {

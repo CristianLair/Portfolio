@@ -8,19 +8,19 @@ export const writingEn = {
   hero: {
     name: 'Cristian Lair',
     my: "I'm",
-    title1: 'Engineer',
-    title2: 'Developer',
+    title1: 'Backend Developer',
+    title2: 'Mentor',
   },
   download: 'Download',
   about: {
     title: 'ABOUT',
     intro:
-      'Graduated from the National Technological University as a Full Stack developer, I develop React applications as well as APIs with Express.js & Node.js using TypeScript or JavaScript. I am passionate about logic and constantly learning new technologies.',
-    subtitle: 'Full Stack Developer',
+      'Backend developer, using Nodejs, GCP, Docker, relational and non-relational databases and languages ​​such as TypeScript, JavaScript and Golang.',
+    subtitle: 'Backend Developer',
     birthdayTitle: 'Birthday: ',
     birthday: '19 october 1993',
     ageTitle: 'Age: ',
-    age: '28',
+    age: '31',
     educationTitle: 'Education: ',
     education: 'University',
     cityTitle: 'City: ',
@@ -28,7 +28,7 @@ export const writingEn = {
     emailTitle: 'Email: ',
     email: 'cristianlair@gmail.com',
     personalInfo:
-      'Philosophy of life always positive, enthusiastic and determined, I trust that hard work brings the best results',
+      'Positive, enthusiastic and determined, I trust that hard work brings the best results',
   },
   skills: {
     title: 'SKILLS',
@@ -50,20 +50,21 @@ export const writingEn = {
       },
     },
     professionalExperiencie: {
-      title: 'Professional Experiencie: ',
+      title: 'Experiencie IT: ',
       1: {
-        title: 'Freelance',
-        period: 'July 2021 - July 2022',
-        institution: 'Freelance - Chaco, Argentina.',
+        title: "Backend Developer",
+        period: "August 2022 - Present",
+        institution: "Ligo - Lima, Peru.",
         description:
-          ' Developed front-end applications for e-commerce (Android & Ios)',
+          "Backend B2C y B2B developer.",
       },
       2: {
-        title: 'Apex américa',
-        period: 'DEC 2019 - Mar 2020',
-        institution: 'State private - Argentina.',
+        title: "Mentor",
+        period: "January 2023 - Present",
+        institution: "Henry - Buenos Aires, Argentina.",
         description1:
-          'Technical service for fibercorp.',
+          "Corrector and student companion",
+        
       },
     },
   },

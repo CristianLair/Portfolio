@@ -85,7 +85,7 @@ export interface IWriting {
 
       description: { title: string; content: string };
     }[];
-  };
+  }
   contact: {
     title: string;
     location: {
